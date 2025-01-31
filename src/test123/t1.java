@@ -9,6 +9,7 @@ public class t1 {
 		System.out.println("123123");
 		System.out.println("newBranch syso");
 		System.out.println("detached head test");
+		System.out.println("fetch test");
 	}
 
 }
