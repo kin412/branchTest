@@ -6,6 +6,8 @@ public class t1 {
 		// TODO Auto-generated method stub
 		System.out.println("테스트테스트");
 		System.out.println("master branch");
+		System.out.println("123123");
+		System.out.println("newBranch syso");
 	}
 
 }
