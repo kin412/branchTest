@@ -10,6 +10,7 @@ public class t1 {
 		System.out.println("newBranch syso");
 		System.out.println("detached head test");
 		System.out.println("fetch test");
+		System.out.println("master cherry test commit1");
 	}
 
 }
